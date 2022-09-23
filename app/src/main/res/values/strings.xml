@@ -3,4 +3,18 @@
     <string name="action_settings">Settings</string>
     <string name="Input_Text">Write Task...</string>
     <string name="Add_Task">AddToList</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="state_of_things">Of all the evils heaped upon black people in this country \n
+        in the 20th century , it seems to me that job discrimination \n ,
+        more than anything broke the resilience of black men .\n
+        Men need to work .They need to know that the sounds of \n
+        their own exhaustion help to create the  kind of world in which they live .\n
+</string>
+    <string name="effect">The refusal to honor a black man\'s work-to let him know that the smell of his \n
+        sweat led to just recompense , that his hands were his survival , and his sinews his passport to success  \n
+        - has led to the degradation , the hostility
+        and the lethargy now threatening to engulf us
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

@@ -1,4 +1,8 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.example.todolist.MainActivity"/>
+    tools:context="com.example.todolist.View.activies.MainActivity">
+    <item android:title="About"
+        app:showAsAction="never"
+        android:id="@+id/About"/>
+</menu>
